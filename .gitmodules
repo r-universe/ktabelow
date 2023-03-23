@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dti"]
+	path = dti
+	url = https://github.com/cran/dti
+	shallow = true
+	registered = true
+[submodule "neuRosim"]
+	path = neuRosim
+	url = https://github.com/cran/neuRosim
+	shallow = true
+	registered = true
+[submodule "qMRI"]
+	path = qMRI
+	url = https://github.com/cran/qMRI
+	shallow = true
+	registered = true
