@@ -8,6 +8,3 @@
 [submodule "neuRosim"]
 	path = neuRosim
 	url = https://github.com/cran/neuRosim
-[submodule "qMRI"]
-	path = qMRI
-	url = https://github.com/cran/qMRI
