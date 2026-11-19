@@ -7,7 +7,7 @@
 	url = https://github.com/cran/dti
 [submodule "neuRosim"]
 	path = neuRosim
-	url = https://github.com/cran/neuRosim
+	url = https://github.com/ktabelow/neurosim
 [submodule "qMRI"]
 	path = qMRI
 	url = https://github.com/cran/qMRI
